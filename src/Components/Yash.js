@@ -175,13 +175,7 @@ function Yash() {
               });
             }}
           />
-          
-          
-          
-            
-            
-          
-        </Modal>
+         </Modal>
       </header>
     </div>
   );
